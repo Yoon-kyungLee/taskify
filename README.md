@@ -1,5 +1,7 @@
-taskify 이미지 들어감.
-Link: https://taskify-team3.vercel.app/
+![image](https://github.com/1cheol-and-team3-taskify/taskify/assets/148832727/502643ec-30b5-4cfb-90d5-e02a4729eab9)
+
+
+[🔗Link](https://taskify-team3.vercel.app/)
 
 # Taskify 
 
